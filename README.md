@@ -1,6 +1,6 @@
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://giphy.com/clips/future-midjourney-chat-gpt-5CtAj3v1G9jLKwxM5E" width="30"> from Argentina.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="30"> from Argentina.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -12,7 +12,7 @@ I am a Full Stack Developer <img src="https://giphy.com/clips/future-midjourney-
 ---
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN1ZjByaTN2NjZodG82ZWhxaGVjZ20yMTNhdm9zbjlrNDR5ZjBsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" width="400"/>
   <div id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
