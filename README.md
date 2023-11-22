@@ -1,6 +1,9 @@
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="100"> from Argentina.
+<div>
+  <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="250" align='center'>
+</div>
+I am a Full Stack Developer from Argentina.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
