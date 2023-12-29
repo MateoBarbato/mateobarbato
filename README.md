@@ -26,7 +26,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div>
-    Welcome to my profile! Please feel free to check my repositories and look around my profile.
+    <pre>Welcome to my profile! Please feel free to check my repositories and look around my profile.</pre>
     If you need to contact me you can choose the method of youre preference with the socials above.
   </div>
   <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="250" align='center'>
