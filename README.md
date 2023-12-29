@@ -27,9 +27,10 @@
   </h1>
   <div>
     <pre>Welcome to my profile! Please feel free to check my repositories and look around my profile.</pre>
+    <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="250" align='center'>
     <pre>If you need to contact me you can choose the method of youre preference with the socials above.</pre>
   </div>
-  <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="250" align='center'>
+  
   </div>
   </div>
 
