@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
   <div align="center">
-  <img src="https://github.com/MateoBarbato/mateobarbato/assets/62154295/595a782e-c28f-45be-9d9f-ddff27c30074" width="250" align='center'>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFqMGQ1NzBka3Zyb2wyMzJ4eHdubGNlb3V4azR4MmtwNnk3bjlzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" width="250" align='center'>
   </div>
   
   <div id="badges">
