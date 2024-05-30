@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
   <div align="center">
-  <img src="https://twitter.com/i/status/1795689351462130113" width="250" align='center'>
+  <img src="https://github.com/MateoBarbato/mateobarbato/assets/62154295/595a782e-c28f-45be-9d9f-ddff27c30074" width="250" align='center'>
   </div>
   
   <div id="badges">
