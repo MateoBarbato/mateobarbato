@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
   <div align="center">
-  <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="250" align='center'>
+  <img src="[https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif](https://twitter.com/i/status/1795689351462130113)" width="250" align='center'>
   </div>
   
   <div id="badges">
