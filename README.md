@@ -46,7 +46,7 @@ I am a Full Stack Developer from Argentina.
 
 - :zap: In my free time, I like to create side proyects to learn new technologies about software / game development.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-barbato-fitzsimons-a332221b9/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MiPerfil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-barbato-fitzsimons-a332221b9/)
 
 ---
 
