@@ -25,7 +25,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 I am a Full Stack Developer from Argentina.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
