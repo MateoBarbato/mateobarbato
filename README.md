@@ -32,6 +32,8 @@ I am a Full Stack Developer from Argentina.
 
 - :seedling: Exploring Technical Development.
 
+- :computer: Homelab entuthiast hosting services and contributing to open-source software
+
 - :zap: In my free time, I like to create side proyects to learn new technologies about software / game development / 3d printing and Electronics/Arduino projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MiPerfil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-barbato-fitzsimons-a332221b9/)
