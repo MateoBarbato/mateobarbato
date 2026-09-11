@@ -5,7 +5,7 @@
 Diseño y desarrollo productos digitales de punta a punta:
 interfaces web, APIs, servicios en tiempo real e infraestructura para operar y escalar.
 
-[Ver proyectos seleccionados →](https://portfolio.mateobarbato.uk/) ·
+[Ver proyectos seleccionados](https://portfolio.mateobarbato.uk/) ·
 [LinkedIn](https://www.linkedin.com/in/mateo-barbato-fitzsimons-a332221b9/) ·
 [Email](mailto:barbatomateo@gmail.com)
 
