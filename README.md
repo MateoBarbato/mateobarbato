@@ -1,39 +1,35 @@
-<div align="center">
-
 # Mateo Barbato
 
-**Software engineer para experiencias interactivas y sistemas en tiempo real**
+**Software engineer · productos web · backend · sistemas en tiempo real**
 
-Construyo software que conecta personas, pantallas y espacios físicos:
-desde la experiencia digital hasta la infraestructura y la operación en vivo.
+Diseño y desarrollo productos digitales de punta a punta:
+interfaces web, APIs, servicios en tiempo real e infraestructura para operar y escalar.
 
 [Ver proyectos seleccionados →](https://portfolio.mateobarbato.uk/) ·
 [LinkedIn](https://www.linkedin.com/in/mateo-barbato-fitzsimons-a332221b9/) ·
 [Email](mailto:barbatomateo@gmail.com)
 
-</div>
-
 ---
 
-## Diseñar · construir · operar
+## Lo que construyo
 
-> Mi foco son las experiencias que tienen que funcionar fuera del navegador:
-> en una activación, una instalación, una pantalla en calle o un sistema en producción.
+Trabajo sobre productos web y sistemas que necesitan conectar una buena experiencia
+de usuario con backend, tiempo real e infraestructura confiable.
 
-Trabajo sobre tres capas que normalmente se resuelven por separado:
-
-- **Experiencias interactivas** — campañas, instalaciones, computer vision, realidad aumentada y WebGL.
-- **Sistemas en tiempo real** — interfaces conectadas, WebSockets, contenido en vivo y herramientas de operación.
-- **Infraestructura de producto** — despliegues containerizados, servicios self-hosted, AWS y arquitectura para equipos.
+- **Web y producto** — aplicaciones frontend, plataformas internas, dashboards, CMS y experiencias mobile-first.
+- **Backend y tiempo real** — APIs, WebSockets, procesamiento de media, integraciones y herramientas operativas.
+- **Infraestructura** — despliegues containerizados, cloud, self-hosting, migraciones y servicios para equipos.
+- **Interactive tech** — computer vision, AR, WebGL e instalaciones; una especialidad que aplico cuando el producto lo necesita.
 
 ## Trabajo seleccionado
 
-- **Mercado Libre** — billboards interactivos con computer vision para personalizar mensajes en calle.
-- **Bank of America · Boston Marathon** — projection mapping con donaciones y contenido en tiempo real.
-- **Colombina** — plataforma mobile-first para crear y renderizar videos personalizados.
-- **Company Stack Migration** — co-lideré la migración de infraestructura desde WHM/cPanel hacia AWS, Coolify y Docker.
+- **Tostitos · PepsiCo** — plataforma web con mapa interactivo para localizar puntos de venta y planificar rutas.
+- **Colombina** — plataforma web para crear, renderizar y compartir videos personalizados.
+- **Bank of America · Boston Marathon** — sistema real-time para una experiencia de projection mapping con donaciones en vivo.
+- **Company Stack Migration** — co-lideré una migración desde WHM/cPanel hacia infraestructura containerizada con AWS, Coolify y Docker.
+- **Mercado Libre** — sistema interactivo con computer vision para personalización de mensajes en vía pública.
 
-También desarrollé trabajo para PepsiCo, Toyota, Prime Video, Tulipán, Tetra Pak y Chevrolet.
+Trabajo realizado para Mercado Libre, Bank of America, PepsiCo, Toyota, Prime Video, Tulipán, Tetra Pak y Chevrolet.
 
 <details>
 <summary><strong>Stack técnico</strong></summary>
