@@ -24,6 +24,13 @@ Soy software engineer de Argentina. Trabajo en la intersección entre tecnologí
 
 Trabajo realizado para Mercado Libre, Bank of America, PepsiCo, Toyota, Prime Video, Tulipán, Tetra Pak y Chevrolet.
 
+## Infraestructura y sistemas
+
+Diseño y opero infraestructura para productos y equipos: despliegues containerizados,
+servicios en tiempo real y herramientas self-hosted.
+
+`AWS` · `Docker` · `Coolify` · `Supabase` · `Nixpacks` · `n8n` · `MinIO` · `Self-hosted`
+
 ## Stack
 
 **Frontend y producto**  
