@@ -2,9 +2,10 @@
 
 # Mateo Barbato
 
-**Software engineer · experiencias interactivas · sistemas en tiempo real**
+**Software engineer para experiencias interactivas y sistemas en tiempo real**
 
-Diseño y desarrollo experiencias interactivas, campañas digitales y sistemas web en tiempo real — desde la interfaz hasta la infraestructura.
+Construyo software que conecta personas, pantallas y espacios físicos:
+desde la experiencia digital hasta la infraestructura y la operación en vivo.
 
 [Ver proyectos seleccionados →](https://portfolio.mateobarbato.uk/) ·
 [LinkedIn](https://www.linkedin.com/in/mateo-barbato-fitzsimons-a332221b9/) ·
@@ -14,30 +15,33 @@ Diseño y desarrollo experiencias interactivas, campañas digitales y sistemas w
 
 ---
 
-## Qué hago
+## Diseñar · construir · operar
 
-Soy software engineer de Argentina. Trabajo en la intersección entre tecnología, experiencias de marca y producto digital.
+> Mi foco son las experiencias que tienen que funcionar fuera del navegador:
+> en una activación, una instalación, una pantalla en calle o un sistema en producción.
 
-- Experiencias interactivas, computer vision, realidad aumentada y sistemas en tiempo real.
-- Aplicaciones full-stack y herramientas operativas para campañas y activaciones.
-- Infraestructura, servicios self-hosted y sistemas para operación en vivo.
+Trabajo sobre tres capas que normalmente se resuelven por separado:
 
-Trabajo realizado para Mercado Libre, Bank of America, PepsiCo, Toyota, Prime Video, Tulipán, Tetra Pak y Chevrolet.
+- **Experiencias interactivas** — campañas, instalaciones, computer vision, realidad aumentada y WebGL.
+- **Sistemas en tiempo real** — interfaces conectadas, WebSockets, contenido en vivo y herramientas de operación.
+- **Infraestructura de producto** — despliegues containerizados, servicios self-hosted, AWS y arquitectura para equipos.
 
-## Infraestructura y sistemas
+## Trabajo seleccionado
 
-Diseño y opero infraestructura para productos y equipos: despliegues containerizados,
-servicios en tiempo real y herramientas self-hosted.
+- **Mercado Libre** — billboards interactivos con computer vision para personalizar mensajes en calle.
+- **Bank of America · Boston Marathon** — projection mapping con donaciones y contenido en tiempo real.
+- **Colombina** — plataforma mobile-first para crear y renderizar videos personalizados.
+- **Company Stack Migration** — co-lideré la migración de infraestructura desde WHM/cPanel hacia AWS, Coolify y Docker.
 
-`AWS` · `Docker` · `Coolify` · `Supabase` · `Nixpacks` · `n8n` · `MinIO` · `Self-hosted`
+También desarrollé trabajo para PepsiCo, Toyota, Prime Video, Tulipán, Tetra Pak y Chevrolet.
 
-## Stack
+<details>
+<summary><strong>Stack técnico</strong></summary>
 
-**Frontend y producto**  
-`TypeScript` · `React` · `Next.js` · `Vue` · `PHP`
+<br />
 
-**Backend, infraestructura y tiempo real**  
-`Node.js` · `Python` · `WebSockets` · `AWS` · `Docker` · `Supabase` · `MySQL` · `MongoDB` · `Firebase`
+`TypeScript` · `React` · `Next.js` · `Vue` · `Node.js` · `Python` · `PHP`  
+`WebSockets` · `AWS` · `Docker` · `Coolify` · `Supabase` · `MySQL` · `MongoDB`  
+`Computer Vision` · `OpenAI API` · `FFmpeg` · `Unity / WebGL` · `n8n` · `MinIO`
 
-**Creative technology**  
-`Computer Vision` · `OpenAI API` · `FFmpeg` · `Unity / WebGL`
+</details>
