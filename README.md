@@ -2,12 +2,11 @@
 
 # Mateo Barbato
 
-**Software engineer · experiencias interactivas · sistemas en tiempo real · producto**
+**Software engineer · experiencias interactivas · sistemas en tiempo real**
 
-Construyo campañas digitales, instalaciones interactivas y plataformas web:
-desde la interfaz y el backend hasta la infraestructura que las hace funcionar.
+Diseño y desarrollo experiencias interactivas, campañas digitales y sistemas web en tiempo real — desde la interfaz hasta la infraestructura.
 
-[Portfolio](TU_URL_DEL_PORTFOLIO) ·
+[Ver proyectos seleccionados →](https://portfolio.mateobarbato.uk/) ·
 [LinkedIn](https://www.linkedin.com/in/mateo-barbato-fitzsimons-a332221b9/) ·
 [Email](mailto:barbatomateo@gmail.com)
 
@@ -15,29 +14,23 @@ desde la interfaz y el backend hasta la infraestructura que las hace funcionar.
 
 ---
 
-## Sobre mí
+## Qué hago
 
-Soy software engineer de Argentina. Trabajo en la intersección entre tecnología,
-experiencias de marca y producto digital.
+Soy software engineer de Argentina. Trabajo en la intersección entre tecnología, experiencias de marca y producto digital.
 
-Me interesan especialmente:
+- Experiencias interactivas, computer vision, realidad aumentada y sistemas en tiempo real.
+- Aplicaciones full-stack y herramientas operativas para campañas y activaciones.
+- Infraestructura, servicios self-hosted y sistemas para operación en vivo.
 
-- Experiencias interactivas, computer vision, AR y tiempo real.
-- Aplicaciones full-stack y herramientas operativas para campañas.
-- Infraestructura, self-hosting, Docker, AWS y homelab.
-- Proyectos personales que mezclan software, hardware, impresión 3D y electrónica.
-
-He desarrollado trabajo para marcas como Mercado Libre, Bank of America, PepsiCo,
-Toyota, Prime Video, Tulipán, Tetra Pak y Chevrolet.
+Trabajo realizado para Mercado Libre, Bank of America, PepsiCo, Toyota, Prime Video, Tulipán, Tetra Pak y Chevrolet.
 
 ## Stack
 
-`TypeScript` · `React` · `Next.js` · `Node.js` · `Vue` · `PHP` · `Python`  
-`WebSockets` · `AWS` · `Docker` · `Supabase` · `MySQL` · `MongoDB` · `Firebase`  
+**Frontend y producto**  
+`TypeScript` · `React` · `Next.js` · `Vue` · `PHP`
+
+**Backend, infraestructura y tiempo real**  
+`Node.js` · `Python` · `WebSockets` · `AWS` · `Docker` · `Supabase` · `MySQL` · `MongoDB` · `Firebase`
+
+**Creative technology**  
 `Computer Vision` · `OpenAI API` · `FFmpeg` · `Unity / WebGL`
-
-## Ahora
-
-- Construyendo experiencias digitales e instalaciones interactivas.
-- Diseñando sistemas real-time y herramientas para operación en vivo.
-- Explorando infraestructura self-hosted, IA local y hardware creativo.
